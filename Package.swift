@@ -1,3 +1,5 @@
+// swift-tools-version:5.5
+
 import PackageDescription
 
 let package = Package(
@@ -18,7 +20,7 @@ let package = Package(
             name: "EnsentaRDCNetwork",
             url: "https://github.com/JHPaymentSolutions/MobileSDK-EnsentaRDC-iOS/releases/download/1.0.0/JackHenryMobileSDK-EnsentaRDCNetwork-1.0.0.xcframework.zip",
             checksum: "1aac1381a0e4bc6279ff4635eeee00fcdee087b36e7701d2020f568b8f6c60f1"
-        )
+        ),
         
         .binaryTarget(
                     name: "EnsentaRDC",
