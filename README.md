@@ -3,12 +3,12 @@
 ![Static Badge](https://img.shields.io/badge/Platform-iOS-blue?logo=swift&logoColor=red)
 ![SPM](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-brightgreen)
 
-The EnsentaRDC-iOS SDK contains two frameworks that consume the [EPS Ensenta RDC API](https://qa.api.payments.jackhenry.com/developer/api-cards), one that embeds comprehensive EPS Ensenta check-deposit functionality into a native mobile application, the other a prebuilt network layer for easily consuming the API.
+The EnsentaRDC-iOS SDK contains two frameworks that consume the [EPS Ensenta RDC API](https://api.payments.jackhenry.com/docs/papi3-multi/overview/), one that embeds comprehensive EPS Ensenta check-deposit functionality into a native mobile application, the other a prebuilt network layer for easily consuming the API.
 
 
 Financial institutions and FinTechs will be able to use the Ensenta EZAdmin™ platform and its 150+ unique risk factors to assist with reviewing the captured deposits. The SDK dramatically decreases the amount of development time and allows for an accelerated adoption of the EPS Ensenta API in a robust and modern format to help you get to market quicker. 
 
-For more information, visit [Jack Henry](https://www.jackhenry.com/contact-us/sales?form=payments).
+For more information, visit [Jack Henry](https://qa.api.payments.jackhenry.com/developer/api-cards).
 
 # System Requirements
 
