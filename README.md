@@ -1,4 +1,4 @@
-# JackHenryMobileSDK EnsentaRDC-iOS
+# JackHenryMobileSDK™ EnsentaRDC-iOS
 ![Static Badge](https://img.shields.io/badge/Swift-6.0_%7C_5.9_%7C_5.8-CA2026?logo=swift&logoColor=red)
 ![Static Badge](https://img.shields.io/badge/Platform-iOS-blue?logo=swift&logoColor=red)
 ![SPM](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-brightgreen)
