@@ -17,6 +17,6 @@ For more information, visit [Jack Henry](https://qa.api.payments.jackhenry.com/d
 | Technology | Min version |
 | :--- | :---: |
 | Xcode | 15.0 |
-| iOS | 16.0 |
+| iOS | 17.0 |
 | iPhone | 8 |
 | iPad | 5th generation |
