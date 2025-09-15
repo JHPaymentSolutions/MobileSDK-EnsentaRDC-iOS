@@ -289,7 +289,7 @@
 "JH_VO_No_Open_Batches" = "Currently you have no open batches.";
 "JH_VO_Num_Of_Check" = "There is %d check in this batch";
 "JH_VO_Num_Of_Checks" = "There are %d checks in this batch";
-"JH_VO_Number_Of_Checks" = "Current showing number of checks in deposits";
+"JH_VO_Number_Of_Checks" = "Currently showing number of checks in deposits";
 "JH_VO_One_Open_Batches" = "Open batch.";
 "JH_VO_One_Or_More_Issues" = "One or more issues with your deposit.";
 "JH_VO_Open" = "Open";
