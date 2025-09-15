@@ -253,7 +253,7 @@
 "JH_VO_Graph_Check_Single" = "on %@ the %@ of %@, %@ check was deposited in single deposits.";
 "JH_VO_Graph_Checks_Single" = "on %@ the %@ of %@, %@ checks were deposited in single deposits.";
 "JH_VO_Graph_Checks" = "on %@ the %@ of %@, %@ checks were deposited in single deposits, and %d checks were deposited in batch deposits";
-"JH_VO_Graph_Checks_Multi" = "on %@ the %@ of %@, %@ checks was deposited in batch deposits.";
+"JH_VO_Graph_Checks_Multi" = "on %@ the %@ of %@, %@ checks were deposited in batch deposits.";
 "JH_VO_Graph_Checks_Single" = "on %@ the %@ of %@, %@ checks were deposited in single deposits.";
 "JH_VO_Graph_Dollar_Amount" = "on %@ the %@ of %@, single deposits totaled $%.2f, and batch deposits totaled $%.2f.";
 "JH_VO_Graph_Dollar_Amount_Multi" = "on %@ the %@ of %@, there were no single deposits. and batch deposits totaled $%.2f.";
