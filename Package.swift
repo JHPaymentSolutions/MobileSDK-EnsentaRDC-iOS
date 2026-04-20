@@ -25,7 +25,7 @@ let package = Package(
         .binaryTarget(
             name: "EnsentaRDCNetwork",
             url: "https://github.com/JHPaymentSolutions/MobileSDK-EnsentaRDC-iOS/releases/download/1.3.5/JackHenryMobileSDK-EnsentaRDCNetwork.xcframework.zip",
-            checksum: "af81bfc140617ef20e09260453330f36ef32f7ecb90370b94148dc82dfffcc15"
+            checksum: "230bfc084d68b9e199bb4019708272253f8cff8ecc1075e15c2603d6b7ea2d41"
         ),
     ]
 )
