@@ -19,13 +19,13 @@ let package = Package(
         // Targets can depend on other targets in this package and products from dependencies.
         .binaryTarget(
             name: "EnsentaRDC",
-            url: "https://github.com/JHPaymentSolutions/MobileSDK-EnsentaRDC-iOS/releases/download/1.3.4/JackHenryMobileSDK-EnsentaRDC.xcframework.zip",
-            checksum: "afad1635ae5c52bf88ea902e9dacddae7415c68880e1f3b04eaf8c44915a4eb5"
+            url: "https://github.com/JHPaymentSolutions/MobileSDK-EnsentaRDC-iOS/releases/download/1.3.5/JackHenryMobileSDK-EnsentaRDC.xcframework.zip",
+            checksum: "0a36f0dd2dd434184cba78dc17591d2905b741120db8edf5c61533ae524123fb"
         ),
         .binaryTarget(
             name: "EnsentaRDCNetwork",
-            url: "https://github.com/JHPaymentSolutions/MobileSDK-EnsentaRDC-iOS/releases/download/1.3.4/JackHenryMobileSDK-EnsentaRDCNetwork.xcframework.zip",
-            checksum: "b33180d7fbf84a984927837e37231a9bfd1bff9ea6d95231a32ada3f3a1431f6"
+            url: "https://github.com/JHPaymentSolutions/MobileSDK-EnsentaRDC-iOS/releases/download/1.3.5/JackHenryMobileSDK-EnsentaRDCNetwork.xcframework.zip",
+            checksum: "230bfc084d68b9e199bb4019708272253f8cff8ecc1075e15c2603d6b7ea2d41"
         ),
     ]
 )
